@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDHhLe7nEL-t19hpzDdt8mtcFm4-DW3j_A",
-    authDomain: "delta-chess-326814.firebaseapp.com",
-    projectId: "delta-chess-326814",
-    storageBucket: "delta-chess-326814.appspot.com",
-    messagingSenderId: "826578240228",
-    appId: "1:826578240228:web:0ac43891fc7534755362f1",
-    measurementId: "G-NTGNGVZ7LV"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   }
 };
 
